@@ -6,6 +6,7 @@ public class Condicionalif {
         if (isBluetoothEnabled) {
             filesSended++;
             System.out.println("Archivo enviado");
+            System.out.println(filesSended);
         }
     }
 }
