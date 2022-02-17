@@ -1,6 +1,6 @@
 import java.util.Scanner; //se tiene que importar scanner para poder obtener datos
 
-public class A01_capturardatos {
+public class capturarDatos {
     
 	 public static void main(String[] args) {
         Scanner input = new Scanner(System.in); //hay que llamar a scanner y guaradr el dato en unavariable input
